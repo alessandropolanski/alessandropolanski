@@ -6,7 +6,7 @@
 
 
 - 🔭 I’m currently working at Grupo Positivo as a Jr. Developer
-- 🌆 Owner at 4M.Developers.com.br 
+- 🌆 Owner at 4MDevelopers.com.br 
 - 🌱 I’m currently improving my skills on ReactJS and NextJS
 - 👯 I’m looking to collaborate on something that changes the world!
 - 💬 Ask me about anything! I'm always open to learn something new
