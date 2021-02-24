@@ -1,4 +1,4 @@
-### Hey there! I'm Alessandro Polanski
+### Hey there! I'm Alessandro Polanski 👨‍💻
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/alessandro-giovanni-polanski-409b0a187/)](https://www.linkedin.com/in/alessandro-giovanni-polanski-409b0a187/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
