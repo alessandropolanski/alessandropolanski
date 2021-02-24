@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/alessandro-giovanni-polanski-409b0a187/)
+![Linkedin Badge](https://www.linkedin.com/in/alessandro-giovanni-polanski-409b0a187/)
 
 - 🔭 I’m currently working at Grupo Positivo as a Jr. Developer
 - 🌆 Owner at 4M Developers 
