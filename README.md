@@ -1,7 +1,7 @@
 ### Hey there! I'm Alessandro Polanski 👨‍💻
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/alessandro-giovanni-polanski-409b0a187/)](https://www.linkedin.com/in/alessandro-giovanni-polanski-409b0a187/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/ale_plsk/)](https://www.instagram.com/ale_plsk/)
 [![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white&link=https://open.spotify.com/user/alespolanski?si=6-mAZY4RQw6gdtovzHGN4g)](https://open.spotify.com/user/alespolanski?si=6-mAZY4RQw6gdtovzHGN4g)
 
 
