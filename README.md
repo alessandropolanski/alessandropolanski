@@ -5,9 +5,8 @@
 [![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white&link=https://open.spotify.com/user/alespolanski?si=6-mAZY4RQw6gdtovzHGN4g)](https://open.spotify.com/user/alespolanski?si=6-mAZY4RQw6gdtovzHGN4g)
 
 
-- 🔭 I’m currently working at Grupo Positivo as a Jr. Developer
-- 🌆 Owner at 4MDevelopers.com.br 
-- 🌱 I’m currently improving my skills on ReactJS and NextJS
+- 🔭 I’m currently working at Softmarketing as a Developer
+- 🌱 I’m currently improving my skills on Python and IBM Cloud
 - 👯 I’m looking to collaborate on something that changes the world!
 - 💬 Ask me about anything! I'm always open to learn something new
 
