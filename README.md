@@ -5,8 +5,8 @@
 [![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white&link=https://open.spotify.com/user/alespolanski?si=6-mAZY4RQw6gdtovzHGN4g)](https://open.spotify.com/user/alespolanski?si=6-mAZY4RQw6gdtovzHGN4g)
 
 
-- 🔭 I’m currently working at SoftInova as a JavaScript Full Stack Developer
-- 🌱 I’m currently improving my skills on Python and IBM Cloud
+- 🔭 I’m currently working at G2i as a Senior Software Engineer for AI
+- 🌱 I’m currently improving my skills on Python, SQL and Javascript
 - 👯 I’m looking to collaborate on something that changes the world!
 - 💬 Ask me about anything! I'm always open to learn something new
 
